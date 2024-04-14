@@ -27,4 +27,4 @@ Create a new branch for your feature or bug fix.
 Make your changes.
 Test your changes thoroughly.
 Commit your changes and push to your fork.
-Create a pull request detailing your changes.
+Create a pull request detailing your changes for this project.
