@@ -1,5 +1,6 @@
 # Hotel_Managment-System_Basic_Project
-This project is a Hotel Management System implemented in C++. It provides a simple yet comprehensive system for managing hotel operations including booking, check-in, check-out, room management, and billing.
+This project is a Hotel Management System implemented in C++. It provides a simple yet comprehensive system for managing hotel operations including booking, check-in, check-out, room management, and billing. 
+The same system can also be build for library and school managment system.
 
 # Features
 Booking Management: Allows users to book rooms for specific dates.
